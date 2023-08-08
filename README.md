@@ -1,2 +1,3 @@
 # data_libfe
 EMG data set (rectus femoris (RF), biceps femoris (BF), tibialis anterior (TA), medial gastrocnemius (MG) and lateral (LG)) during a race on a treadmill (one person), associating with the manuscript "The initial impact with forefoot increases the muscular activity of gastrocnemius during running. A quantitative study of electromyographic activity". DOI: 10.47197/retos.v38i38.73955
+https://www.researchgate.net/publication/338901551_El_impacto_inicial_con_antepie_incrementa_la_actividad_muscular_del_gastrocnemios_durante_la_carrera_Un_estudio_cuantitativo_de_actividad_electromiografica_The_initial_impact_with_forefoot_increases_t
